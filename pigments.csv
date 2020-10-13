@@ -1,0 +1,401 @@
+Master Volume,0
+Macro 1,1
+Macro 2,2
+Macro 3,3
+Macro 4,4
+Env VCA Attack,5
+Env VCA Decay,6
+Env VCA Sustain,7
+Env VCA Release,8
+Env VCA AttackCurve,9
+Env VCA DecayCurve,10
+Env VCA ReleaseLink,11
+Env VCA Mode,12
+Env 2 Attack,13
+Env 2 Decay,14
+Env 2 Sustain,15
+Env 2 Release,16
+Env 2 AttackCurve,17
+Env 2 DecayCurve,18
+Env 2 ReleaseLink,19
+Env 2 Mode,20
+Env 3 Attack,21
+Env 3 Decay,22
+Env 3 Sustain,23
+Env 3 Release,24
+Env 3 AttackCurve,25
+Env 3 DecayCurve,26
+Env 3 ReleaseLink,27
+Env 3 Mode,28
+LFO 1 Frequency,29
+LFO 1 Tempo Div,30
+LFO 1 Waveform,31
+LFO 1 Symmetry,32
+LFO 1 Polarity,33
+LFO 1 Initial Phase,34
+LFO 1 Smooth,35
+LFO 1 KeyTrack,36
+LFO 1 Fade,37
+LFO 2 Frequency,38
+LFO 2 Tempo Div,39
+LFO 2 Waveform,40
+LFO 2 Symmetry,41
+LFO 2 Polarity,42
+LFO 2 Initial Phase,43
+LFO 2 Smooth,44
+LFO 2 KeyTrack,45
+LFO 2 Fade,46
+LFO 3 Frequency,47
+LFO 3 Tempo Div,48
+LFO 3 Waveform,49
+LFO 3 Symmetry,50
+LFO 3 Polarity,51
+LFO 3 Initial Phase,52
+LFO 3 Smooth,53
+LFO 3 KeyTrack,54
+LFO 3 Fade,55
+Function 1 Rate,56
+Function 1 Tempo Div,57
+Function 1 Bipolar,58
+Function 2 Rate,59
+Function 2 Tempo Div,60
+Function 2 Bipolar,61
+Function 3 Rate,62
+Function 3 Tempo Div,63
+Function 3 Bipolar,64
+S&H 2 RiseTime,65
+S&H 2 FallTime,66
+S&H 2 Link,67
+Unsync Rate,68
+Sync Rate,69
+Turing 1 Flip,70
+Turing 1 Length,71
+Unsync Rate,72
+Sync Rate,73
+Binary 3 Proba,74
+Binary 3 Correl,75
+Unsync Rate,76
+Sync Rate,77
+Combinate 1 Amount,78
+Combinate 2 Amount,79
+Engine 1 Bypass,80
+Wavetable 1 Main Vol,81
+Wavetable 1 Mod Vol,82
+Wavetable 1 Coarse,83
+Wavetable 1 Fine,84
+Wavetable 1 Position,85
+Wavetable 1 Mod Coarse,86
+Wavetable 1 Mod Freq,87
+Wavetable 1 Mod Fine,88
+Wavetable 1 FM Amount,89
+Wavetable 1 FM Type,90
+Wavetable 1 PM Amount,91
+Wavetable 1 Sync Source,92
+Wavetable 1 Phase Distortion,93
+Wavetable 1 Ph Dist Amount,94
+Wavetable 1 Fold,95
+Wavetable 1 Fold Amount,96
+Wavetable 1 Unison Mode,97
+Wavetable 1 Unison Voices,98
+Wavetable 1 Unison Detune,99
+Wavetable 1 Unison Stereo,100
+Wavetable 1 Unison Chord,101
+Analog 1 Coarse,102
+Analog 1 Fine Tune,103
+Analog 1 Drift,104
+Analog 1 O1 Coarse,105
+Analog 1 O2 Coarse,106
+Analog 1 O3 Coarse,107
+Analog 1 O2 Fine,108
+Analog 1 O3 Fine,109
+Analog 1 O1 Width,110
+Analog 1 O2 Width,111
+Analog 1 O3 Width,112
+Analog 1 O1 Volume,113
+Analog 1 O2 Volume,114
+Analog 1 O3 Volume,115
+Analog 1 Noise Source,116
+Analog 1 Noise Volume,117
+Analog 1 Mod Source,118
+Analog 1 Mod Amount,119
+Engine 2 Bypass,120
+Wavetable 2 Main Vol,121
+Wavetable 2 Mod Vol,122
+Wavetable 2 Coarse,123
+Wavetable 2 Fine,124
+Wavetable 2 Position,125
+Wavetable 2 Mod Coarse,126
+Wavetable 2 Mod Freq,127
+Wavetable 2 Mod Fine,128
+Wavetable 2 FM Amount,129
+Wavetable 2 FM Type,130
+Wavetable 2 PM Amount,131
+Wavetable 2 Sync Source,132
+Wavetable 2 Phase Distortion,133
+Wavetable 2 Ph Dist Amount,134
+Wavetable 2 Fold,135
+Wavetable 2 Fold Amount,136
+Wavetable 2 Unison Mode,137
+Wavetable 2 Unison Voices,138
+Wavetable 2 Unison Detune,139
+Wavetable 2 Unison Stereo,140
+Wavetable 2 Unison Chord,141
+Analog 2 Coarse,142
+Analog 2 Fine Tune,143
+Analog 2 Drift,144
+Analog 2 O1 Coarse,145
+Analog 2 O2 Coarse,146
+Analog 2 O3 Coarse,147
+Analog 2 O2 Fine,148
+Analog 2 O3 Fine,149
+Analog 2 O1 Width,150
+Analog 2 O2 Width,151
+Analog 2 O3 Width,152
+Analog 2 O1 Volume,153
+Analog 2 O2 Volume,154
+Analog 2 O3 Volume,155
+Analog 2 Noise Source,156
+Analog 2 Noise Volume,157
+Analog 2 Mod Source,158
+Analog 2 Mod Amount,159
+Engine 1 Volume,160
+Engine1 Filter Mix,161
+Engine 2 Volume,162
+Engine2 Filter Mix,163
+F1 On/Off,164
+F1 Cutoff,165
+F1 Resonance,166
+F1 SEM Mode,167
+F1 Drive,168
+F1 Spread,169
+F1 Comb Type,170
+F1 Comb Freq,171
+F1 Comb Gain,172
+F1 Comb KeyTrack,173
+F1 Feedback,174
+F1 Frequency Shift,175
+F1 Morph,176
+F1 Q Factor,177
+F1 Blend,178
+F1 FM Amount,179
+F1 Volume,180
+F1 Pan,181
+F2 On/Off,182
+F2 Cutoff,183
+F2 Resonance,184
+F2 SEM Mode,185
+F2 Drive,186
+F2 Spread,187
+F2 Comb Type,188
+F2 Comb Freq,189
+F2 Comb Gain,190
+F2 Comb KeyTrack,191
+F2 Feedback,192
+F2 Frequency Shift,193
+F2 Morph,194
+F2 Q Factor,195
+F2 Blend,196
+F2 FM Amount,197
+F2 Volume,198
+F2 Pan,199
+Filter Routing,200
+Amp Mod Amount,201
+Voice Pan,202
+Voice Send Level,203
+FX 1 Bypass,204
+FX 1 Dry/Wet,205
+Reverb 1 Predelay,206
+Reverb 1 Decay,207
+Reverb 1 Damping,208
+Reverb 1 LowPass Freq,209
+Reverb 1 HighPass Freq,210
+Reverb 1 Size,211
+Reverb 1 Output MS Mix (Stereo),212
+Param Eq 1 LowShelf fc,213
+Param Eq 1 LowShelf Gain,214
+Param Eq 1 LowShelf Q,215
+Param Eq 1 Peak 1 fc,216
+Param Eq 1 Peak 1 Gain,217
+Param Eq 1 Peak 1 Q,218
+Param Eq 1 Peak 2 fc,219
+Param Eq 1 Peak 2 Gain,220
+Param Eq 1 Peak 2 Q,221
+Param Eq 1 Peak 3 fc,222
+Param Eq 1 Peak 3 Gain,223
+Param Eq 1 Peak 3 Q,224
+Param Eq 1 HighShelf fc,225
+Param Eq 1 HighShelf Gain,226
+Param Eq 1 HighShelf Q,227
+Param Eq 1 Scale,228
+Distortion 1 Drive,229
+Distortion 1 Output Gain,230
+Wavefolder 1 Drive,231
+Wavefolder 1 Output Gain,232
+Overdrive 1 Drive,233
+Overdrive 1 Tone,234
+Overdrive 1 Level,235
+Chorus 1 Fix Delay,236
+Chorus 1 Depth,237
+Chorus 1 Rate,238
+Chorus 1 Feedback,239
+Chorus 1 Stereo Mode,240
+Chorus 1 LFO Shape,241
+Phaser 1 Frequency,242
+Phaser 1 N Poles,243
+Phaser 1 Feedback,244
+Phaser 1 LFO Amount,245
+Phaser 1 Rate Unsynced,246
+Phaser 1 Rate Synced,247
+Phaser 1 Stereo,248
+Delay 1 Time,249
+Delay 1 Synced,250
+Delay 1 Feedback,251
+Delay 1 HighPass fc,252
+Delay 1 LowPass fc,253
+Delay 1 Stereo Spread,254
+Delay 1 Stereo Width,255
+Delay 1 Stereo Mode,256
+FX Filter 1 Frequency,257
+FX Filter 1 Q,258
+FX Filter 1 Comb Freq,259
+Stereo Pan 1 Amount,260
+Stereo Pan 1 Rate Unsynced,261
+Stereo Pan 1 Rate Synced,262
+Flanger 1 MinDelay,263
+Flanger 1 Depth,264
+Flanger 1 Rate,265
+Flanger 1 Sync Rate,266
+Flanger 1 Feedback,267
+Flanger 1 Feedback Polarity,268
+Flanger 1 Stereo,269
+Flanger 1 LowPass fc,270
+Flanger 1 HighPass fc,271
+Flanger 1 LFO Waveform,272
+Bit Crusher 1 Bit Depth,273
+Bit Crusher 1 Downsample,274
+Compressor 1 Threshold,275
+Compressor 1 Ratio,276
+Compressor 1 Attack,277
+Compressor 1 Release,278
+Compressor 1 Auto Make up,279
+Compressor 1 Output Gain,280
+Compressor 1 OutGainReduction,281
+FX 2 Bypass,282
+FX 2 Dry/Wet,283
+Reverb 2 Predelay,284
+Reverb 2 Decay,285
+Reverb 2 Damping,286
+Reverb 2 LowPass Freq,287
+Reverb 2 HighPass Freq,288
+Reverb 2 Size,289
+Reverb 2 Output MS Mix (Stereo),290
+Param Eq 2 LowShelf fc,291
+Param Eq 2 LowShelf Gain,292
+Param Eq 2 LowShelf Q,293
+Param Eq 2 Peak 1 fc,294
+Param Eq 2 Peak 1 Gain,295
+Param Eq 2 Peak 1 Q,296
+Param Eq 2 Peak 2 fc,297
+Param Eq 2 Peak 2 Gain,298
+Param Eq 2 Peak 2 Q,299
+Param Eq 2 Peak 3 fc,300
+Param Eq 2 Peak 3 Gain,301
+Param Eq 2 Peak 3 Q,302
+Param Eq 2 HighShelf fc,303
+Param Eq 2 HighShelf Gain,304
+Param Eq 2 HighShelf Q,305
+Param Eq 2 Scale,306
+Distortion 2 Drive,307
+Distortion 2 Output Gain,308
+Wavefolder 2 Drive,309
+Wavefolder 2 Output Gain,310
+Overdrive 2 Drive,311
+Overdrive 2 Tone,312
+Overdrive 2 Level,313
+Chorus 2 Fix Delay,314
+Chorus 2 Depth,315
+Chorus 2 Rate,316
+Chorus 2 Feedback,317
+Chorus 2 Stereo Mode,318
+Chorus 2 LFO Shape,319
+Phaser 2 Frequency,320
+Phaser 2 N Poles,321
+Phaser 2 Feedback,322
+Phaser 2 LFO Amount,323
+Phaser 2 Rate Unsynced,324
+Phaser 2 Rate Synced,325
+Phaser 2 Stereo,326
+Delay 2 Time,327
+Delay 2 Synced,328
+Delay 2 Feedback,329
+Delay 2 HighPass fc,330
+Delay 2 LowPass fc,331
+Delay 2 Stereo Spread,332
+Delay 2 Stereo Width,333
+Delay 2 Stereo Mode,334
+FX Filter 2 Frequency,335
+FX Filter 2 Q,336
+FX Filter 2 Comb Freq,337
+Stereo Pan 2 Amount,338
+Stereo Pan 2 Rate Unsynced,339
+Stereo Pan 2 Rate Synced,340
+Flanger 2 MinDelay,341
+Flanger 2 Depth,342
+Flanger 2 Rate,343
+Flanger 2 Sync Rate,344
+Flanger 2 Feedback,345
+Flanger 2 Feedback Polarity,346
+Flanger 2 Stereo,347
+Flanger 2 LowPass fc,348
+Flanger 2 HighPass fc,349
+Flanger 2 LFO Waveform,350
+Bit Crusher 2 Bit Depth,351
+Bit Crusher 2 Downsample,352
+Compressor 2 Threshold,353
+Compressor 2 Ratio,354
+Compressor 2 Attack,355
+Compressor 2 Release,356
+Compressor 2 Auto Make up,357
+Compressor 2 Output Gain,358
+Compressor 2 OutGainReduction,359
+FX 3 Bypass,360
+FX 3 Dry/Wet,361
+Reverb 3 Predelay,362
+Reverb 3 Decay,363
+Reverb 3 Damping,364
+Reverb 3 LowPass Freq,365
+Reverb 3 HighPass Freq,366
+Reverb 3 Size,367
+Reverb 3 Output MS Mix (Stereo),368
+Param Eq 3 LowShelf fc,369
+Param Eq 3 LowShelf Gain,370
+Param Eq 3 LowShelf Q,371
+Param Eq 3 Peak 1 fc,372
+Param Eq 3 Peak 1 Gain,373
+Param Eq 3 Peak 1 Q,374
+Param Eq 3 Peak 2 fc,375
+Param Eq 3 Peak 2 Gain,376
+Param Eq 3 Peak 2 Q,377
+Param Eq 3 Peak 3 fc,378
+Param Eq 3 Peak 3 Gain,379
+Param Eq 3 Peak 3 Q,380
+Param Eq 3 HighShelf fc,381
+Param Eq 3 HighShelf Gain,382
+Param Eq 3 HighShelf Q,383
+Param Eq 3 Scale,384
+Distortion 3 Drive,385
+Distortion 3 Output Gain,386
+Wavefolder 3 Drive,387
+Wavefolder 3 Output Gain,388
+Overdrive 3 Drive,389
+Overdrive 3 Tone,390
+Overdrive 3 Level,391
+Chorus 3 Fix Delay,392
+Chorus 3 Depth,393
+Chorus 3 Rate,394
+Chorus 3 Feedback,395
+Chorus 3 Stereo Mode,396
+Chorus 3 LFO Shape,397
+Phaser 3 Frequency,398
+Phaser 3 N Poles,399
+Phaser 3 Feedback,400
